@@ -1,0 +1,7 @@
+cat < f1.txt
+
+
+
+
+[A[A[A[A[A[A[B[B[C[C[C[C[C[C
+ls
